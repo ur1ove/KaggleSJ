@@ -2,6 +2,9 @@
 ## 세종특별자시골에서도 캐글 공부해요^^
 - ~~시골은 살기 좋다는 의미입니다.~~
 ### 2019년 1차 캐글 스터디
+- 1-1차(3/23) :  
+  캐글은 가입하시고 오시고 [2019 2nd ML month with KaKR](https://www.kaggle.com/c/2019-2nd-ml-month-with-kakr) 바로 들어갑니다.  
+  분석 커널은 [Seattle Housing Prices Analysis and Prediction](https://www.kaggle.com/unerue/seattle-housing-prices-analysis-and-prediction)입니다.  
 - 새뜸마을 4단지에서 진행합니다. 관심있으신 분들은 메시지 주십시오.  
 - 토요일 오후에 격주로 진행하며 모두가 호스트입니다.  
 - 기본서는 [밑바닥부터 시작하는 딥러닝](http://www.hanbit.co.kr/store/books/look.php?p_code=B8475831198)으로 정리하고  
