@@ -17,3 +17,4 @@
 ~~- 페이스북, 슬랙, 깃허브를 통해 진행하겠습니다.~~
 ### 참고
 - [캐글 코리아 페이스북](https://www.facebook.com/groups/KaggleKoreaOpenGroup/)  
+- 김성훈 교수님 논문읽기 : [시즌1](https://www.youtube.com/playlist?list=PLWKf9beHi3Tg50UoyTe6rIm20sVQOH1br&fbclid=IwAR1fzFHXvh0yohGtaoMPkYyrzE93TgTutg8CtVIubLKJi1gWYKEAgClfvjk), [시즌2](https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.youtube.com%2Fplaylist%3Flist%3DPLWKf9beHi3TgstcIn8K6dI_85_ppAxzB8%26fbclid%3DIwAR3Re-NssHA-6bzIy5iZbigYt4EnZK8xfTvvxwp5KdwyKuCW-fdx8dYVtcg&h=AT1xs_9HrIYhxks6tyB5DHdQ908yC6eOnjIbO8sN34AFwWKQgjTjr879S7fhs1kzpON3PbLRF67H5tpJ7RNRl0eo3eHSHX5U8-adq1CsV1Ln3rPlC2UU1sGgqH6ifgvtnXbb3UveBeyl0vcDux2sViTQefu9rXqj8oXkdys)  
