@@ -12,6 +12,7 @@
 - 기본서는 [밑바닥부터 시작하는 딥러닝](http://www.hanbit.co.kr/store/books/look.php?p_code=B8475831198)으로 정리하고  
 - 참여자 모두 캐글 커널을 빠르게 리뷰합니다.(인당 30분이내)  
 - [파이썬 기본](https://github.com/ur1ove/SDtown4/tree/master/study/python)은 개인적으로 학습합니다.  
+- [퀵랩](https://www.qwiklabs.com/)  
 ~~- 신도심에서 공부하실 수 있는 분들끼리 평일 저녁이나 주말 오후에 진행합니다.~~  
 ~~- 모두가 호스트가 되는 모임이었으면 합니다.~~  
 ~~- 장소는 세종국책연구단지 혹은 나성동 토즈에서 진행했으면 좋겠습니다.~~
