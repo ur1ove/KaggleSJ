@@ -7,6 +7,10 @@
   분석 커널은 [Seattle Housing Prices Analysis and Prediction](https://www.kaggle.com/unerue/seattle-housing-prices-analysis-and-prediction)입니다.  
 - 1-2차(4/7) : 캐글 가입해주십시오.  
   b3nn9 : [2019 2nd ML month with KaKR](https://www.kaggle.com/c/2019-2nd-ml-month-with-kakr)  
+- 1-3차(4/14) : 캐글 가입해주십시오.  
+  b3nn9 : [2019 2nd ML month with KaKR](https://www.kaggle.com/c/2019-2nd-ml-month-with-kakr)  
+- 1-3차(4/20) : 캐글 가입해주십시오.  
+  b3nn9 : [2019 2nd ML month with KaKR](https://www.kaggle.com/c/2019-2nd-ml-month-with-kakr)  
 - 새뜸마을 4단지에서 진행합니다. 관심있으신 분들은 메시지 주십시오.  
 - 토요일 오후에 격주로 진행하며 모두가 호스트입니다.  
 - 기본서는 [밑바닥부터 시작하는 딥러닝](http://www.hanbit.co.kr/store/books/look.php?p_code=B8475831198)으로 정리하고  
