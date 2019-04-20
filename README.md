@@ -5,7 +5,7 @@
 ## 2019년 1차 캐글 스터디
   
 ### 공지사항 + 준비사항  
-- [캐글](https://www.kaggle.com/), 구글검색 with 깃허브(https://github.com/)  
+- [캐글](https://www.kaggle.com/), 구글검색 with [깃허브](https://github.com/)  
 - [퀵랩](https://www.qwiklabs.com/)  
 - [밑바닥부터 시작하는 딥러닝](http://www.hanbit.co.kr/store/books/look.php?p_code=B8475831198)
 - [파이썬 기본](https://github.com/ur1ove/SDtown4/tree/master/study/python)  
