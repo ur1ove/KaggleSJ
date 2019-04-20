@@ -13,7 +13,7 @@
   
 ### 일정 등    
 - 1-4차(4/20)
-  캐글 발표 : b3nn9, ~~~spegas~~~  
+  캐글 발표 : b3nn9, ~~spegas~~  
   b3nn9 : [2019 2nd ML month with KaKR](https://www.kaggle.com/c/2019-2nd-ml-month-with-kakr), [
 Housing with keras](https://www.kaggle.com/kummyong/housing-with-keras)  
     [AND 게이트(2018.9.16), "위키피디아", https://ko.wikipedia.org/wiki/AND_게이트, 검색일:2019.4.20](https://ko.wikipedia.org/wiki/AND_%EA%B2%8C%EC%9D%B4%ED%8A%B8)
