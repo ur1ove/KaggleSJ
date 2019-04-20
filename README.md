@@ -12,8 +12,10 @@
 - 토요일 오후 격주로 새뜸마을 4단지 주민회의실에서 캐글 커널을 통해 데이터 분석 학습활동을 합니다.
   
 ### 일정 등    
-- 1-3차(4/20) : 캐글 가입해주십시오.  
-  b3nn9 : [2019 2nd ML month with KaKR](https://www.kaggle.com/c/2019-2nd-ml-month-with-kakr)  
+- 1-4차(4/20)
+  캐글 발표 : b3nn9, spegas  
+  b3nn9 : [2019 2nd ML month with KaKR](https://www.kaggle.com/c/2019-2nd-ml-month-with-kakr), [
+Housing with keras](https://www.kaggle.com/kummyong/housing-with-keras)  
 - 1-3차(4/14) : 캐글 가입해주십시오.  
   b3nn9 : [2019 2nd ML month with KaKR](https://www.kaggle.com/c/2019-2nd-ml-month-with-kakr)  
 - 1-2차(4/7) : 캐글 가입해주십시오.  
