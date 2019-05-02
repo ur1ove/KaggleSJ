@@ -6,4 +6,4 @@
 
 ### 2. 2019-05-02(목)
    -  제목 : [kaggle_kernel(Comprehensive data exploration with Python) 분석](https://www.kaggle.com/pmarcelino/comprehensive-data-exploration-with-python)
-   -  내용 : [데이터간 상관관계](https://seaborn.pydata.org/generated/seaborn.pairplot.html), [정규화](https://scikit-learn.org/stable/modules/generated/sklearn.preprocessing.StandardScaler.html), [Bivariate analysis](http://www.statedu.com/QnA/79573), [독립변수, 종속변소](https://drhongdatanote.tistory.com/14)
+   -  내용 : [데이터간 상관관계](https://seaborn.pydata.org/generated/seaborn.pairplot.html), [정규화](https://scikit-learn.org/stable/modules/generated/sklearn.preprocessing.StandardScaler.html), [Bivariate analysis](http://www.statedu.com/QnA/79573), [독립변수, 종속변수](https://drhongdatanote.tistory.com/14)
